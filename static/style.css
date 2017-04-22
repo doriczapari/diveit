@@ -1,0 +1,54 @@
+body {
+    background-image: url("../static/texturetastic_gray.png");
+}
+
+#about{
+    height: 390px;
+    background-image: url("../static/pexels-photo-70226.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.overlay {
+    background-color: rgba(0,0,0,0.6);
+    height: 390px;
+}
+
+.diveit-title {
+    font-family: Lato;
+    padding: 80px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.title {
+    font-size: 140px;
+}
+
+#not {
+    color: lightcoral;
+}
+
+.navbar-custom {
+    background-color: transparent;
+    margin: 0px;
+}
+
+ul.nav {
+    font-weight: 500;
+}
+
+#content {
+    font-size: 20px;
+    padding-top: 30px;
+    text-align: center;
+    font-family: Raleway;
+}
+
+#contact {
+    font-size: 20px;
+    padding-top: 30px;
+    text-align: center;
+    font-family: Raleway;
+}
